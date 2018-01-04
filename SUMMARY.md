@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [1 Virtual Machine Setup](chapter1.md)
-  * [1.1 Obtain Vritualbox](chapter1/11-obtain-vritualbox.md)
+  * [1.1 Obtain Virtualbox](chapter1/11-obtain-vritualbox.md)
   * [1.2 Obtain the VirtualBox machine image](chapter1/12-obtain-the-virtualbox-machine-image.md)
   * [1.3 Import the machine image](chapter1/13-import-the-machine-image.md)
 * [2 Try the VM](2-try-the-vm.md)
