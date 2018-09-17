@@ -9,4 +9,4 @@ If the kernel panic like the picture below when you power up the machine, you sh
 (2) In BIOS SETUP UTILITY, select the Configuration option and you will see the Virtualization Technology. Enable it by pressing the Enter key.
 
 (3) Save and Exit.
-[](/assets/crash.png)
+![](/assets/crash.png)
